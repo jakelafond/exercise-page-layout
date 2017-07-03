@@ -137,6 +137,9 @@ nav {
   #sidebar_content{
     display:flex;
   }
+  #sidebar_content>div{
+    flex-grow: 1;
+  }
 
 }
 /* ------Desktop styles------ */
